@@ -1,0 +1,9 @@
+flask
+pytesseract
+opencv-python
+pillow
+sqlalchemy
+pdf2image
+tensorflow
+scikit-learn
+joblib
